@@ -1,2 +1,2 @@
-C:\Users\Admin\eclipse-workspace\OpencartV121
+cd /d C:\Users\Admin\eclipse-workspace\OpencartV121
 mvn test
